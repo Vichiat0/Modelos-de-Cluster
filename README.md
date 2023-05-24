@@ -31,7 +31,7 @@ Esse é um projeto de ciências de dados, feito durante a faculdade. Ele aborda:
 
 # Como executar o projeto
 
-Por se tratar de um notebook (.pynb), é só abrir o arquivo "Modelos de Regressão" que dará para ver as sysout das células.
+Por se tratar de um notebook (.pynb), é só abrir o arquivo "Modelos de cluster" que dará para ver as sysout das células. Porém foi utilizado gráficos da biblioteca Plotly, e por serem gráficos interativos eles não iram aparecer nas sysout. Por isso foi criado uma pasta chamada "Grafico Plotly" que contém as imagens dos gráficos gerados.
 
 # Base de Dados
 
